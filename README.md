@@ -2,8 +2,8 @@
 
 A desktop application that allows users to search and browse movies using the OMDB (Open Movie Database) API. Built with C++ and Dear ImGui, this application provides a clean and efficient interface for searching movies, managing favorites, and viewing detailed movie information.
 
-![IMDB Movie Search Screenshot]
-![image](https://github.com/user-attachments/assets/00fa3a0d-d3fb-4408-932a-263a80711dc7)
+![image](https://github.com/user-attachments/assets/36c6d195-05bd-4103-89ea-9d5e820a911e)
+
 
 ## Features
 
