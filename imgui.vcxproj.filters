@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="imgui\imgui_widgets.cpp" />
+    <ClCompile Include="imgui\imgui_tables.cpp" />
+    <ClCompile Include="imgui\imgui_draw.cpp" />
+    <ClCompile Include="imgui\imgui_demo.cpp" />
+    <ClCompile Include="imgui\imgui.cpp" />
+    <ClCompile Include="imgui\backends\imgui_impl_win32.cpp" />
+    <ClCompile Include="imgui\backends\imgui_impl_opengl3.cpp" />
+    <ClCompile Include="movie_search_app.cpp" />
+    <ClCompile Include="main_window.cpp" />
+    <ClCompile Include="MovieFavorites.cpp" />
+    <ClCompile Include="MovieSearchService.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="imgui\imstb_truetype.h" />
+    <ClInclude Include="imgui\imstb_textedit.h" />
+    <ClInclude Include="imgui\imstb_rectpack.h" />
+    <ClInclude Include="imgui\imgui_internal.h" />
+    <ClInclude Include="imgui\imgui.h" />
+    <ClInclude Include="imgui\imconfig.h" />
+    <ClInclude Include="imgui\backends\imgui_impl_win32.h" />
+    <ClInclude Include="imgui\backends\imgui_impl_opengl3_loader.h" />
+    <ClInclude Include="imgui\backends\imgui_impl_opengl3.h" />
+    <ClInclude Include="include\httplib.h" />
+    <ClInclude Include="include\json.hpp" />
+    <ClInclude Include="movie.h" />
+    <ClInclude Include="movie_search_app.h" />
+    <ClInclude Include="main_window.h" />
+    <ClInclude Include="include\curl-8.11.1\include\curl\curl.h" />
+    <ClInclude Include="MovieFavorites.h" />
+    <ClInclude Include="MovieSearchService.h" />
+  </ItemGroup>
+</Project>

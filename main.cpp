@@ -11,7 +11,6 @@ int main(int, char**) {
     if (!window.init())     //start the frame
         return 1;
     bool done = false;
-    std::cout << "Rendering Movie Search App with thread id " << std::this_thread::get_id() << std::endl;
 
     while (!done) 
     {
